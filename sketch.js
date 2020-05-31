@@ -9,7 +9,7 @@ var back, back_image;
 
 function preload()
 {
-  person_Image = loadImage("Images/person2.PNG");
+  person_Image = loadImage("Images/person2.png");
   
   groundImage = loadImage("Images/ground2.png");
 
